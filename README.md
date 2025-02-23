@@ -1,5 +1,6 @@
 # 💫 About Me:
-# 👋 Hello, I'm Vitaly!<br><br>Welcome to my GitHub profile!<br>I'm a passionate and results-driven software developer with expertise in web development, backend systems, and AI-driven solutions. <br>I enjoy building efficient, scalable, and secure applications while constantly exploring new technologies to enhance my skill set.<br>
+
+👋 Hello, I'm Vitaly!<br><br>Welcome to my GitHub profile!<br>I'm a passionate and results-driven software developer with expertise in web development, backend systems, and AI-driven solutions. <br>I enjoy building efficient, scalable, and secure applications while constantly exploring new technologies to enhance my skill set.<br>
 
 
 ## 🌐 Socials:
